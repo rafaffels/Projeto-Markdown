@@ -26,6 +26,7 @@ Cursos | Carga Horária | instituição
 Programação em Python|60 Horas|Senai
 Técnico Em Administração | 1000 Horas|Senac
 Excel Avançado|30 Horas|Senac
+Desenvolvimento Web|100 horas|Udemy
 
 ---
 
