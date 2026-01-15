@@ -1,15 +1,15 @@
 # Meu Currículo online
 ![](teste.jpg "Desenvolvimento Web")
  
- >##### Rafael silva Ferreira
-
+ >#### Rafael silva Ferreira
+---
  >**Objetivo:** _Desenvolvedor Jr_ - _Testes_
  >**Telefone :** 11 96310-1518
  >**Email:** rafasilva11987@gmail.com
  >**Idioma:** Inglês Intermediário
+ ---
  [Acesse meu Perfil profissional][linkedin]
  [Acesse meu Github][Github]
-
  [Github]: https://github.com/rafaffels
 
  [linkedin]: https://www.linkedin.com/in/rafael-ferreira-a72724232
